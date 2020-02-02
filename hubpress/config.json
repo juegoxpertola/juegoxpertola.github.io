@@ -2,7 +2,8 @@
   "meta": {
     "username": "juegoxpertola",
     "repositoryName": "juegoxpertola.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -26,5 +27,31 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "site": {
+    "title": "JuegoXperto en Español",
+    "description": "Información sobre la actualidad del mundo de los videojuegos y otros temas.",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "10",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
