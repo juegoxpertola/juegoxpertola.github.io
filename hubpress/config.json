@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ichi"
+    "name": "roon"
   },
   "urls": {
     "site": "https://juegoxpertola.github.io",
     "hubpress": "https://juegoxpertola.github.io",
-    "theme": "//juegoxpertola.github.io/themes/ghostium",
+    "theme": "//juegoxpertola.github.io/themes/ichi",
     "images": "https://juegoxpertola.github.io/images"
   },
   "initialisationConfigComponent": {
